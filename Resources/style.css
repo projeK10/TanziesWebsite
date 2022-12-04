@@ -82,6 +82,7 @@ ul {
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    padding-bottom: 1rem;
 }
 
 #pictures h2 {
